@@ -1,0 +1,29 @@
+Encryption and Decryption Project
+(Semester project)
+An encryption algorithm is the method used to transform data into ciphertext. An 
+algorithm will use the encryption key in order to alter the data in a predictable way, 
+so that even though the encrypted data will appear random, it can be turned back 
+into plaintext by using the decryption key.
+1. Use an encryption algorithm (DES, AES, blowfish, Twofish etc.) to encrypt and 
+decrypt a file.
+● The algorithm must be able to encrypt and decrypt images, text files, zip files
+and powerpoints.
+2. You may only use Python or Java as a Programming language.
+3. You MUST create your own encryption and decryption algorithm, thus two 
+different algorithms (generic algorithm like DES and your groups own algorithm)
+4. A document must be submitted with the following information:
+● § why you chose the encryption method
+● § what are the advantages and disadvantages of this algorithm
+● § explain your own algorithm in detail 
+5. You can work in groups of 4 - 5
+6. Project must be done and demonstrated from the 15th until the 25th of May 2023.
+● Time slots will be made available. 
+7. You will be able to rate your teammates after the project is marked. All reviews will 
+be kept private. You will only get the marks you deserve. If you do 50% of the work, 
+you will get 50% of your group's mark.
+8. The video uploaded on efundi is only a guideline, do not follow it step by step. 
+9. On efundi a marking scheme is available.
+YOU WILL RECEIVE ZERO IF ANY CODE IS PLAGARISED!!! NO EXCEPTIONS!!
+If you have any questions, please email me.
+Tina Van Niekerk
+30473497@mynwu.ac.za
